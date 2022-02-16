@@ -6,8 +6,6 @@ import Entry from './views/Entry';
 import './App.css';
 import { PlannerProvider } from './context/PlannerContext';
 
-const entries = 
-
 export default function App() {
   return (
     <>
